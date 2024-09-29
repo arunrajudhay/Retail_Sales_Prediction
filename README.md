@@ -32,7 +32,7 @@ Install the following packages to run the project :
 1. Clone the repository
 2. Install the required packages
 3. Run the Streamlit app
-4. Access the app in your browser
+4. Access the app in your browser.
 
 ## Approach:
 ### Data Understanding and Preprocessing:
