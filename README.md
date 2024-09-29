@@ -23,7 +23,7 @@ Install the following packages to run the project :
 ## Key Technologies and Skills:
 1. Python scripting 
 2. Data transformation and cleaning
-3. Exploring skewness and detecting outliers
+3. Exploring skewness and detecting outliers.
 4. Model building using machine learning algorithms.
 5. Regression and classification algorithm analysis.
 6. Evaluation and model selection.
