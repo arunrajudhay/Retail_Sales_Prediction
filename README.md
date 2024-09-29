@@ -17,7 +17,7 @@ Install the following packages to run the project :
 2. pip install pandas.
 3. pip install scikit-learn.
 4. pip install numpy.
-5. pip install seaborn
+5. pip install seaborn.
 6. pip install matplotlib
 
 ## Key Technologies and Skills:
