@@ -58,5 +58,41 @@ Install the following packages to run the project :
 2. Quantify the impact of markdowns on sales.
 
 ### Recommendations:
-1 .Provide actionable insights for markdown strategies and holiday planning.
+1. Provide actionable insights for markdown strategies and holiday planning.
 2. Suggest improvements for future data collection.
+
+## Learning outcomes of this project:
+### Results:
+1. Sales Forecasts: Accurate weekly sales predictions for each department.
+2. Markdown Insights: Quantitative analysis of markdown impacts on sales.
+3. Strategic Recommendations: Data-driven suggestions for promotional and holiday strategies to maximize business impact.
+
+### Project Evaluation Metrics:
+1. Root Mean Squared Error (RMSE)
+2. Mean Absolute Error (MAE)
+3. Weighted Metrics: Higher weights for holiday weeks to reflect their importance.
+
+### Model Performance:
+1. Linear Regressor Accuracy: 84.88%
+2. Random Forest Regressor Accuracy: 95.45%
+3. Decision Tree Regressor Accuracy: 94.08%
+4. XGBoost Accuracy: 94.21%
+5. DNN Accuracy: 90.50% The Random Forest Regressor was chosen as the final model due to its highest accuracy of 95.45%.
+
+### Final Observations:
+1. Larger stores tend to have higher sales.
+2. Fuel Price and Unemployment rate significantly impact weekly sales.
+3. Temperature and Markdowns are crucial during key promotional events.
+4. Proper planning and execution of markdown strategies can drive substantial sales increases during holidays.
+
+## Contribution:
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
+
+## Contact:
+
+Email : [ruarunraj2013@gmail.com](mailto:ruarunraj2013@gmail.com)
+
+Linkedin : https://www.linkedin.com/in/arunraj-r-u-27722a146
+
+Thanks for showing interest in this repository !
+
