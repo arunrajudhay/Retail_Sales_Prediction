@@ -18,7 +18,7 @@ Install the following packages to run the project :
 3. pip install scikit-learn.
 4. pip install numpy.
 5. pip install seaborn.
-6. pip install matplotlib
+6. pip install matplotlib.
 
 ## Key Technologies and Skills:
 1. Python scripting.
