@@ -13,7 +13,7 @@ Retail Sales Forecast employs advanced machine learning techniques, prioritizing
 
 ## Pre-requisites:
 Install the following packages to run the project :
-1. pip install streamlit
+1. pip install streamlit.
 2. pip install pandas
 3. pip install scikit-learn
 4. pip install numpy
